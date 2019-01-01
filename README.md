@@ -1,3 +1,6 @@
 # sublime_key
-initial version. All of the files should have the same contents, just formatted for different devices.
-Create an issue if you find something wrong.
+WIP = Work in Progress. Read the latest one with the highest number.
+
+Create an issue if you find something wrong or have comments.
+
+Thanks for reading!
